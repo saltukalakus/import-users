@@ -14,7 +14,7 @@ Rename `.env-sample` to `.env` and replace the values for `AUTH0_CONNECTION`, `A
 
 ```bash
 # copy configuration and replace with your own
-cp .env-sample.env
+cp .env-sample .env
 ```
 
 Run the app.
